@@ -140,34 +140,17 @@ Overall, the solution improves productivity, protects the environment, and uplif
 </p>
 
 <h2>Implementation Flowchart</h2>
-
 <p>
 The flowchart below shows how the AR smart glasses solution works step by step:
 </p>
+    <img width="983" height="709" alt="Screenshot 2025-09-23 083639" src="https://github.com/user-attachments/assets/1288c459-0ad3-442d-af3b-bde81550a86d" />
+                                    
 
-<pre style="font-family: monospace; background-color:#f4f4f4; padding:10px; border-radius:5px;">
-Farmer wears AR smart glasses
-            |
-            v
-    Glasses scan the crops
-            |
-            v
-Detect pests, diseases, or water/fertilizer needs
-            |
-            v
-  Match with digital crop library
-            |
-            v
- Display visual & voice instructions to farmer
-            |
-            v
-     Farmer takes recommended action
-            |
-            v
- System records actions & updates advice
-</pre>
 
-<h2>Research and References</h2>
+
+
+
+
 
 <p>
 This solution is based on research and reports that emphasize the challenges of small and marginal farmers in India
