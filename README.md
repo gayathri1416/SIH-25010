@@ -139,7 +139,12 @@ The flowchart below shows how the AR smart glasses solution works step by step:
 
 
 ## Research and References
-NABARD REPORT(2022): 86%  of Indian farmers are small or marginal, underscoring the need for accessible , afforable technology solutions.
-ICT- based Advisory System: Studies have shown that ICT- based Advisory can increase crop yield by 20%-30%, proving the potential impact of the solution.
+86% of Indian farmers are small or marginal, making them highly dependent on affordable and localized technology for advisory services (NABARD Report, 2022).
+
+ICT-based advisories can raise yields by 20–30%, showing that digital decision-support directly improves productivity and farmer income.
+
+Deep learning models can accurately detect crop diseases from images, with PlantVillage studies reporting high success rates in field diagnosis.
+
+AR smart glasses have been tested in agriculture to provide hands-free, real-time guidance, showing strong potential for precision farming and usability.
 
 
