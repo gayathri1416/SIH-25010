@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 20.09.2025
+# Date: 23.09.2025
 ## Register Number: 25009125
 ## Name: GAYATHRI.C
 ## Problem Title
@@ -144,19 +144,11 @@ Overall, the solution improves productivity, protects the environment, and uplif
 The flowchart below shows how the AR smart glasses solution works step by step:
 </p>
     <img width="983" height="709" alt="Screenshot 2025-09-23 083639" src="https://github.com/user-attachments/assets/1288c459-0ad3-442d-af3b-bde81550a86d" />
-                                    
-
-
-
-
-
-
-
 <p>
 This solution is based on research and reports that emphasize the challenges of small and marginal farmers in India
 and the benefits of using modern technology to improve agriculture and rural livelihoods.
 </p>
-
+<h2>Research and References</h2>
 <ul>
   <li><b>NABARD Report 2022–23</b> – Highlights the need for technology-based support for small and marginal farmers.
       <a href="https://www.nabard.org" target="_blank">https://www.nabard.org</a></li>
